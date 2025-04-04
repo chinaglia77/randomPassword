@@ -1,18 +1,31 @@
-## Getting Started
+# 🔐 Password Generator – Java Swing  
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Um gerador de senhas interativo desenvolvido em **Java** usando **Swing**, oferecendo uma interface intuitiva para criar senhas seguras e personalizadas.
 
-## Folder Structure
+## 📜 Sobre o projeto  
+Este projeto foi desenvolvido para facilitar a criação de senhas fortes e personalizadas, garantindo segurança para diversas aplicações. A interface gráfica foi construída com **Java Swing**, proporcionando uma experiência amigável ao usuário.
 
-The workspace contains two folders by default, where:
+## ✨ Funcionalidades  
+✅ Defina o comprimento da senha  
+✅ Escolha entre letras maiúsculas, minúsculas, números e símbolos  
+✅ Interface gráfica moderna e intuitiva  
+✅ Copie a senha gerada com um clique  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📂 Estrutura do projeto  
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O workspace contém as seguintes pastas:  
+- **`src/`**: Contém os arquivos-fonte do projeto  
+- **`lib/`**: Mantém as dependências do projeto  
+- **`bin/`**: Armazena os arquivos compilados  
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🚀 Como executar  
 
-## Dependency Management
+### Pré-requisitos  
+- Java 8+ instalado  
+- IDE como **Visual Studio Code**, **Eclipse** ou **IntelliJ IDEA**  
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Passos  
+1. Clone este repositório:  
+   ```sh
+   git clone https://github.com/seu-usuario/password-generator.git
+
